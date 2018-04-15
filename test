@@ -1,0 +1,24 @@
+[33mcommit 4d50d34152002d84c3ef7a53671d1b87ddd4da98[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: b52dd19 28d69c3
+Author: detran1999 <detran1999@yahoo.com>
+Date:   Sat Apr 14 23:07:31 2018 -0400
+
+    rename files
+
+[33mcommit 28d69c3bf7a5e1df88cff82c38b6518f1ef35950[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: detran1999 <detran1999@yahoo.com>
+Date:   Sat Apr 14 23:04:53 2018 -0400
+
+    Update test.html
+
+[33mcommit b52dd19c4cd1eec956c9ee8c7ab52babb83a4336[m
+Author: detran1999 <detran1999@yahoo.com>
+Date:   Sat Apr 14 23:00:58 2018 -0400
+
+    Added date and time
+
+[33mcommit c6b39abc027b26a9e2e9f1d9d0833dd6fd302a16[m
+Author: detran1999 <detran1999@yahoo.com>
+Date:   Sat Apr 14 22:46:56 2018 -0400
+
+    Add files
